@@ -22,7 +22,10 @@ body{
     position: absolute;
     bottom: -20px;
 }
-
+/* Titolo */
+#titolo{
+    margin-bottom: 0;
+}
 /* Formattazione Testo autore e data */
 #autor{
     color: grey;
@@ -57,12 +60,16 @@ ul {
     list-style-position: inside;
     padding-left: 0;
   }
-
-  
+/* Formattazione intestazione tabella */
 th{
     background-color: rgb(24, 66, 164);
     color: aliceblue;
 }
+  /* Righe Blu */
+.blu-row{
+    background-color: rgb(78, 195, 224);
+}
+
 
 
 
