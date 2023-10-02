@@ -10,7 +10,7 @@ body{
     background-position: center;
     background-color: cornflowerblue;
     background-size: contain;
-    height: 100px;
+    height: 80px;
     background-position: top;
     color: rgb(233, 52, 215);
     padding: 20px;
@@ -42,7 +42,6 @@ body{
 }
 
 /* Conteiner immegini */
-
 .container-pic>img{
     height: 200px;
     width: 400px;
@@ -51,11 +50,12 @@ body{
 #description-imgs{
     font-size: small;
 }
-
+/* Testo evidenziato */
 .backgroung-yellow{
     background-color: yellow;
 }
 
+/* Correzione padding lista */
 ul {
     list-style-position: inside;
     padding-left: 0;
@@ -68,6 +68,15 @@ th{
   /* Righe Blu */
 .blu-row{
     background-color: rgb(78, 195, 224);
+}
+
+/* Description Fotter */
+#description-img{
+    color: grey;
+}
+
+.container-img{
+    
 }
 
 
