@@ -76,7 +76,16 @@ th{
 }
 
 .container-img{
-    
+    width: 312px;
+    height: 208px;
+    position: relative;
+}
+.text{
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    color: aliceblue;
+    font-size: larger;
 }
 
 
