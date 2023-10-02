@@ -1,0 +1,25 @@
+/* Default Valuew */
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Logo */
+#logo{
+    background-image: url(../img/pattern.png);
+    background-position: center;
+    background-color: cornflowerblue;
+    background-size: contain;
+    height: 100px;
+    background-position: top;
+    margin: 0;
+    color: aliceblue;
+}
+
+.container-pic>img{
+    height: 200px;
+    width: 400px;
+}
+
+
+
